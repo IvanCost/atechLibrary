@@ -1,8 +1,7 @@
 package com.atech.library;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class GridViewCustom extends AppCompatActivity {
 
